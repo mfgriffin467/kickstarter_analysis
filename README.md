@@ -17,3 +17,6 @@ To launch the Bokeh application locally, please donwload the content in the Boke
 Then navigate to the folder where this is saved and use command prompt to run:
 
 bokeh --serve main.py
+
+
+![](images/dashboard_visual.png)
